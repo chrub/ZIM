@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<valuesForTests>
+    <test id="0">
+        <columIndex>1</columIndex>
+        <ValueForSearch>Laughing Bacchus Winecellars</ValueForSearch>
+        <returnColumIndex>3</returnColumIndex>
+        <expectedValue>Canada</expectedValue>
+    </test>
+    <test id="1">
+        <columIndex>3</columIndex>
+        <ValueForSearch>Austria</ValueForSearch>
+        <returnColumIndex>2</returnColumIndex>
+        <expectedValue>Roland Mendel</expectedValue>
+    </test>
+    <test id="2">
+        <columIndex>3</columIndex>
+        <ValueForSearch>Italy</ValueForSearch>
+        <returnColumIndex>3</returnColumIndex>
+        <expectedValue>Italy</expectedValue>
+    </test>
+    <test id="3">
+        <columIndex>2</columIndex>
+        <ValueForSearch>Helen Bennett</ValueForSearch>
+        <returnColumIndex>1</returnColumIndex>
+        <expectedValue>Island Trading</expectedValue>
+    </test>
+    <test id="4">
+        <columIndex>1</columIndex>
+        <ValueForSearch>Centro comercial Moctezuma</ValueForSearch>
+        <returnColumIndex>2</returnColumIndex>
+        <expectedValue>Francisco Chang</expectedValue>
+    </test>
+    <test id="5">
+        <columIndex>2</columIndex>
+        <ValueForSearch>Francisco Chang</ValueForSearch>
+        <returnColumIndex>3</returnColumIndex>
+        <expectedValue>Mexico</expectedValue>
+    </test>
+    <test id="6">
+        <columIndex>1</columIndex>
+        <ValueForSearch>Magazzini Alimentari Riuniti</ValueForSearch>
+        <returnColumIndex>3</returnColumIndex>
+        <expectedValue>Italy</expectedValue>
+    </test>
+    <test id="7">
+        <columIndex>1</columIndex>
+        <ValueForSearch>Alfreds Futterkiste</ValueForSearch>
+        <returnColumIndex>1</returnColumIndex>
+        <expectedValue>Alfreds Futterkiste</expectedValue>
+    </test>
+    <test id="8">
+        <columIndex>2</columIndex>
+        <ValueForSearch>Yoshi Tannamuri</ValueForSearch>
+        <returnColumIndex>2</returnColumIndex>
+        <expectedValue>Yoshi Tannamuri</expectedValue>
+    </test>
+    <test id="9">
+        <columIndex>3</columIndex>
+        <ValueForSearch>UK</ValueForSearch>
+        <returnColumIndex>1</returnColumIndex>
+        <expectedValue>Island Trading</expectedValue>
+    </test>
+</valuesForTests>
